@@ -1,0 +1,612 @@
+Club,Matchday,Wins,Draws,Losses,Goaldiff,Points
+FC Bayern Muenchen,1,1,0,0,5,3
+Borussia Dortmund,1,1,0,0,4,3
+FC Schalke 04,1,1,0,0,3,3
+1. FC Koeln,1,1,0,0,2,3
+Bayer 04 Leverkusen,1,1,0,0,1,3
+VfL Wolfsburg,1,1,0,0,1,3
+FC Ingolstadt 04,1,1,0,0,1,3
+Hertha Berlin,1,1,0,0,1,3
+Hannover 96,1,0,1,0,0,1
+SV Darmstadt 98,1,0,1,0,0,1
+Eintracht Frankfurt,1,0,0,1,-1,0
+TSG 1899 Hoffenheim,1,0,0,1,-1,0
+1. FSV Mainz 05,1,0,0,1,-1,0
+FC Augsburg,1,0,0,1,-1,0
+VfB Stuttgart,1,0,0,1,-2,0
+SV Werder Bremen,1,0,0,1,-3,0
+Borussia Moenchengladbach,1,0,0,1,-4,0
+Hamburger SV,1,0,0,1,-5,0
+Borussia Dortmund,2,2,0,0,8,6
+FC Bayern Muenchen,2,2,0,0,6,6
+Bayer 04 Leverkusen,2,2,0,0,2,6
+FC Schalke 04,2,1,1,0,3,4
+1. FC Koeln,2,1,1,0,2,4
+VfL Wolfsburg,2,1,1,0,1,4
+Hertha Berlin,2,1,1,0,1,4
+1. FSV Mainz 05,2,1,0,1,0,3
+FC Ingolstadt 04,2,1,0,1,-3,3
+Hamburger SV,2,1,0,1,-4,3
+SV Darmstadt 98,2,0,2,0,0,2
+Eintracht Frankfurt,2,0,1,1,-1,1
+Hannover 96,2,0,1,1,-1,1
+FC Augsburg,2,0,1,1,-1,1
+SV Werder Bremen,2,0,1,1,-3,1
+TSG 1899 Hoffenheim,2,0,0,2,-2,0
+VfB Stuttgart,2,0,0,2,-3,0
+Borussia Moenchengladbach,2,0,0,2,-5,0
+Borussia Dortmund,3,3,0,0,10,9
+FC Bayern Muenchen,3,3,0,0,9,9
+VfL Wolfsburg,3,2,1,0,4,7
+1. FC Koeln,3,2,1,0,3,7
+1. FSV Mainz 05,3,2,0,1,3,6
+Bayer 04 Leverkusen,3,2,0,1,-1,6
+FC Ingolstadt 04,3,2,0,1,-2,6
+Eintracht Frankfurt,3,1,1,1,2,4
+FC Schalke 04,3,1,1,1,0,4
+Hertha Berlin,3,1,1,1,-1,4
+SV Werder Bremen,3,1,1,1,-2,4
+SV Darmstadt 98,3,0,3,0,0,3
+Hamburger SV,3,1,0,2,-5,3
+TSG 1899 Hoffenheim,3,0,1,2,-2,1
+FC Augsburg,3,0,1,2,-2,1
+Hannover 96,3,0,1,2,-4,1
+VfB Stuttgart,3,0,0,3,-6,0
+Borussia Moenchengladbach,3,0,0,3,-6,0
+Borussia Dortmund,4,4,0,0,12,12
+FC Bayern Muenchen,4,4,0,0,10,12
+VfL Wolfsburg,4,2,2,0,4,8
+Eintracht Frankfurt,4,2,1,1,6,7
+FC Schalke 04,4,2,1,1,1,7
+SV Werder Bremen,4,2,1,1,0,7
+Hertha Berlin,4,2,1,1,0,7
+1. FC Koeln,4,2,1,1,-1,7
+FC Ingolstadt 04,4,2,1,1,-2,7
+1. FSV Mainz 05,4,2,0,2,2,6
+SV Darmstadt 98,4,1,3,0,1,6
+Hamburger SV,4,2,0,2,-2,6
+Bayer 04 Leverkusen,4,2,0,2,-2,6
+FC Augsburg,4,0,1,3,-3,1
+TSG 1899 Hoffenheim,4,0,1,3,-4,1
+Hannover 96,4,0,1,3,-6,1
+VfB Stuttgart,4,0,0,4,-7,0
+Borussia Moenchengladbach,4,0,0,4,-9,0
+Borussia Dortmund,5,5,0,0,15,15
+FC Bayern Muenchen,5,5,0,0,13,15
+VfL Wolfsburg,5,3,2,0,6,11
+FC Schalke 04,5,3,1,1,2,10
+1. FC Koeln,5,3,1,1,0,10
+FC Ingolstadt 04,5,3,1,1,-1,10
+1. FSV Mainz 05,5,3,0,2,4,9
+Eintracht Frankfurt,5,2,2,1,6,8
+SV Werder Bremen,5,2,1,2,-1,7
+Hamburger SV,5,2,1,2,-2,7
+Hertha Berlin,5,2,1,2,-2,7
+SV Darmstadt 98,5,1,3,1,-2,6
+Bayer 04 Leverkusen,5,2,0,3,-5,6
+FC Augsburg,5,1,1,3,-1,4
+TSG 1899 Hoffenheim,5,0,1,4,-6,1
+Hannover 96,5,0,1,4,-8,1
+VfB Stuttgart,5,0,0,5,-8,0
+Borussia Moenchengladbach,5,0,0,5,-10,0
+FC Bayern Muenchen,6,6,0,0,17,18
+Borussia Dortmund,6,5,1,0,15,16
+FC Schalke 04,6,4,1,1,4,13
+VfL Wolfsburg,6,3,2,1,2,11
+Hertha Berlin,6,3,1,2,0,10
+Hamburger SV,6,3,1,2,-1,10
+1. FC Koeln,6,3,1,2,-2,10
+FC Ingolstadt 04,6,3,1,2,-2,10
+1. FSV Mainz 05,6,3,0,3,3,9
+SV Darmstadt 98,6,2,3,1,-1,9
+Bayer 04 Leverkusen,6,3,0,3,-4,9
+Eintracht Frankfurt,6,2,2,2,4,8
+SV Werder Bremen,6,2,1,3,-2,7
+FC Augsburg,6,1,1,4,-3,4
+VfB Stuttgart,6,1,0,5,-6,3
+Borussia Moenchengladbach,6,1,0,5,-8,3
+TSG 1899 Hoffenheim,6,0,2,4,-6,2
+Hannover 96,6,0,1,5,-10,1
+FC Bayern Muenchen,7,7,0,0,20,21
+Borussia Dortmund,7,5,2,0,15,17
+FC Schalke 04,7,5,1,1,5,16
+VfL Wolfsburg,7,3,3,1,2,12
+Bayer 04 Leverkusen,7,4,0,3,-1,12
+Hertha Berlin,7,3,2,2,0,11
+1. FC Koeln,7,3,2,2,-2,11
+FC Ingolstadt 04,7,3,2,2,-2,11
+SV Darmstadt 98,7,2,4,1,-1,10
+Hamburger SV,7,3,1,3,-2,10
+Eintracht Frankfurt,7,2,3,2,4,9
+1. FSV Mainz 05,7,3,0,4,0,9
+SV Werder Bremen,7,2,1,4,-5,7
+Borussia Moenchengladbach,7,2,0,5,-6,6
+TSG 1899 Hoffenheim,7,1,2,4,-4,5
+FC Augsburg,7,1,1,5,-5,4
+VfB Stuttgart,7,1,0,6,-8,3
+Hannover 96,7,0,2,5,-10,2
+FC Bayern Muenchen,8,8,0,0,24,24
+Borussia Dortmund,8,5,2,1,11,17
+FC Schalke 04,8,5,1,2,2,16
+Hertha Berlin,8,4,2,2,3,14
+1. FC Koeln,8,4,2,2,1,14
+FC Ingolstadt 04,8,4,2,2,0,14
+Bayer 04 Leverkusen,8,4,1,3,-1,13
+1. FSV Mainz 05,8,4,0,4,1,12
+VfL Wolfsburg,8,3,3,2,0,12
+SV Darmstadt 98,8,2,4,2,-2,10
+Hamburger SV,8,3,1,4,-5,10
+Eintracht Frankfurt,8,2,3,3,2,9
+Borussia Moenchengladbach,8,3,0,5,-4,9
+SV Werder Bremen,8,2,1,5,-6,7
+TSG 1899 Hoffenheim,8,1,3,4,-4,6
+FC Augsburg,8,1,2,5,-5,5
+Hannover 96,8,1,2,5,-9,5
+VfB Stuttgart,8,1,1,6,-8,4
+FC Bayern Muenchen,9,9,0,0,25,27
+Borussia Dortmund,9,6,2,1,13,20
+FC Schalke 04,9,6,1,2,3,19
+VfL Wolfsburg,9,4,3,2,2,15
+Hertha Berlin,9,4,2,3,2,14
+1. FC Koeln,9,4,2,3,0,14
+Bayer 04 Leverkusen,9,4,2,3,-1,14
+FC Ingolstadt 04,9,4,2,3,-1,14
+SV Darmstadt 98,9,3,4,2,0,13
+Borussia Moenchengladbach,9,4,0,5,0,12
+1. FSV Mainz 05,9,4,0,5,-1,12
+Hamburger SV,9,3,2,4,-5,11
+Eintracht Frankfurt,9,2,3,4,-2,9
+Hannover 96,9,2,2,5,-8,8
+VfB Stuttgart,9,2,1,6,-7,7
+SV Werder Bremen,9,2,1,6,-7,7
+TSG 1899 Hoffenheim,9,1,3,5,-6,6
+FC Augsburg,9,1,2,6,-7,5
+FC Bayern Muenchen,10,10,0,0,29,30
+Borussia Dortmund,10,7,2,1,17,23
+FC Schalke 04,10,6,1,3,1,19
+VfL Wolfsburg,10,5,3,2,3,18
+Hertha Berlin,10,5,2,3,3,17
+Bayer 04 Leverkusen,10,5,2,3,0,17
+Borussia Moenchengladbach,10,5,0,5,2,15
+FC Ingolstadt 04,10,4,2,4,-2,14
+1. FC Koeln,10,4,2,4,-4,14
+Hamburger SV,10,4,2,4,-4,14
+SV Darmstadt 98,10,3,4,3,-1,13
+Eintracht Frankfurt,10,3,3,4,-1,12
+1. FSV Mainz 05,10,4,0,6,-3,12
+SV Werder Bremen,10,3,1,6,-5,10
+Hannover 96,10,2,2,6,-9,8
+VfB Stuttgart,10,2,1,7,-8,7
+TSG 1899 Hoffenheim,10,1,3,6,-7,6
+FC Augsburg,10,1,2,7,-11,5
+FC Bayern Muenchen,11,10,1,0,29,31
+Borussia Dortmund,11,8,2,1,19,26
+VfL Wolfsburg,11,6,3,2,4,21
+FC Schalke 04,11,6,2,3,1,20
+Borussia Moenchengladbach,11,6,0,5,5,18
+Hertha Berlin,11,5,2,4,0,17
+Bayer 04 Leverkusen,11,5,2,4,-1,17
+FC Ingolstadt 04,11,4,3,4,-2,15
+1. FC Koeln,11,4,3,4,-4,15
+Hamburger SV,11,4,2,5,-5,14
+Eintracht Frankfurt,11,3,4,4,-1,13
+1. FSV Mainz 05,11,4,1,6,-3,13
+SV Darmstadt 98,11,3,4,4,-3,13
+Hannover 96,11,3,2,6,-8,11
+VfB Stuttgart,11,3,1,7,-6,10
+SV Werder Bremen,11,3,1,7,-7,10
+TSG 1899 Hoffenheim,11,1,4,6,-7,7
+FC Bayern Muenchen,12,11,1,0,33,34
+Borussia Dortmund,12,9,2,1,20,29
+VfL Wolfsburg,12,6,3,3,2,21
+Hertha Berlin,12,6,2,4,2,20
+FC Schalke 04,12,6,2,4,0,20
+Borussia Moenchengladbach,12,6,1,5,5,19
+1. FC Koeln,12,5,3,4,-3,18
+Bayer 04 Leverkusen,12,5,2,5,-2,17
+1. FSV Mainz 05,12,5,1,6,-1,16
+FC Ingolstadt 04,12,4,4,4,-2,16
+Hamburger SV,12,4,3,5,-5,15
+Eintracht Frankfurt,12,3,5,4,-1,14
+SV Darmstadt 98,12,3,5,4,-3,14
+SV Werder Bremen,12,4,1,7,-6,13
+Hannover 96,12,3,2,7,-10,11
+VfB Stuttgart,12,3,1,8,-10,10
+TSG 1899 Hoffenheim,12,1,5,6,-7,8
+FC Augsburg,12,1,3,8,-12,6
+FC Bayern Muenchen,13,12,1,0,35,37
+Borussia Dortmund,13,9,2,2,18,29
+VfL Wolfsburg,13,7,3,3,8,24
+Hertha Berlin,13,7,2,4,3,23
+Borussia Moenchengladbach,13,7,1,5,6,22
+Bayer 04 Leverkusen,13,6,2,5,0,20
+FC Schalke 04,13,6,2,5,-2,20
+FC Ingolstadt 04,13,5,4,4,0,19
+1. FC Koeln,13,5,4,4,-3,19
+Hamburger SV,13,5,3,5,-3,18
+1. FSV Mainz 05,13,5,2,6,-1,17
+Eintracht Frankfurt,13,3,5,5,-3,14
+SV Darmstadt 98,13,3,5,5,-5,14
+SV Werder Bremen,13,4,1,8,-12,13
+Hannover 96,13,3,2,8,-11,11
+VfB Stuttgart,13,3,1,9,-14,10
+FC Augsburg,13,2,3,8,-8,9
+TSG 1899 Hoffenheim,13,1,5,7,-8,8
+FC Bayern Muenchen,14,13,1,0,37,40
+Borussia Dortmund,14,10,2,2,21,32
+VfL Wolfsburg,14,7,4,3,8,25
+Borussia Moenchengladbach,14,7,2,5,6,23
+Hertha Berlin,14,7,2,5,1,23
+Bayer 04 Leverkusen,14,6,3,5,0,21
+Hamburger SV,14,6,3,5,-1,21
+FC Schalke 04,14,6,3,5,-2,21
+1. FSV Mainz 05,14,6,2,6,0,20
+1. FC Koeln,14,5,5,4,-3,20
+FC Ingolstadt 04,14,5,4,5,-4,19
+SV Darmstadt 98,14,3,6,5,-5,15
+Eintracht Frankfurt,14,3,5,6,-4,14
+Hannover 96,14,4,2,8,-7,14
+SV Werder Bremen,14,4,1,9,-14,13
+FC Augsburg,14,2,4,8,-8,10
+VfB Stuttgart,14,3,1,10,-17,10
+TSG 1899 Hoffenheim,14,1,6,7,-8,9
+FC Bayern Muenchen,15,13,1,1,35,40
+Borussia Dortmund,15,11,2,2,22,35
+Borussia Moenchengladbach,15,8,2,5,8,26
+Hertha Berlin,15,8,2,5,2,26
+VfL Wolfsburg,15,7,4,4,7,25
+FC Schalke 04,15,7,3,5,0,24
+1. FSV Mainz 05,15,7,2,6,2,23
+Bayer 04 Leverkusen,15,6,3,6,-1,21
+Hamburger SV,15,6,3,6,-3,21
+1. FC Koeln,15,5,5,5,-4,20
+FC Ingolstadt 04,15,5,5,5,-4,20
+SV Darmstadt 98,15,4,6,5,-4,18
+Eintracht Frankfurt,15,3,5,7,-5,14
+Hannover 96,15,4,2,9,-9,14
+SV Werder Bremen,15,4,2,9,-14,14
+FC Augsburg,15,3,4,8,-7,13
+VfB Stuttgart,15,3,2,10,-17,11
+TSG 1899 Hoffenheim,15,1,7,7,-8,10
+FC Bayern Muenchen,16,14,1,1,37,43
+Borussia Dortmund,16,12,2,2,25,38
+Hertha Berlin,16,9,2,5,6,29
+VfL Wolfsburg,16,7,5,4,7,26
+Borussia Moenchengladbach,16,8,2,6,3,26
+Bayer 04 Leverkusen,16,7,3,6,4,24
+1. FSV Mainz 05,16,7,3,6,2,24
+FC Schalke 04,16,7,3,6,-1,24
+Hamburger SV,16,6,4,6,-3,22
+1. FC Koeln,16,5,6,5,-4,21
+FC Ingolstadt 04,16,5,5,6,-6,20
+SV Darmstadt 98,16,4,6,6,-8,18
+FC Augsburg,16,4,4,8,-6,16
+SV Werder Bremen,16,4,3,9,-14,15
+Eintracht Frankfurt,16,3,5,8,-8,14
+Hannover 96,16,4,2,10,-10,14
+TSG 1899 Hoffenheim,16,2,7,7,-7,13
+VfB Stuttgart,16,3,3,10,-17,12
+FC Bayern Muenchen,17,15,1,1,38,46
+Borussia Dortmund,17,12,2,3,24,38
+Hertha Berlin,17,10,2,5,8,32
+Borussia Moenchengladbach,17,9,2,6,4,29
+Bayer 04 Leverkusen,17,8,3,6,5,27
+FC Schalke 04,17,8,3,6,0,27
+VfL Wolfsburg,17,7,5,5,5,26
+1. FSV Mainz 05,17,7,3,7,0,24
+1. FC Koeln,17,6,6,5,-3,24
+Hamburger SV,17,6,4,7,-4,22
+FC Ingolstadt 04,17,5,5,7,-7,20
+FC Augsburg,17,5,4,8,-5,19
+SV Darmstadt 98,17,4,6,7,-9,18
+Eintracht Frankfurt,17,4,5,8,-7,17
+VfB Stuttgart,17,4,3,10,-15,15
+SV Werder Bremen,17,4,3,10,-15,15
+Hannover 96,17,4,2,11,-11,14
+TSG 1899 Hoffenheim,17,2,7,8,-8,13
+FC Bayern Muenchen,18,16,1,1,39,49
+Borussia Dortmund,18,13,2,3,26,41
+Hertha Berlin,18,10,3,5,8,33
+Borussia Moenchengladbach,18,9,2,7,2,29
+Bayer 04 Leverkusen,18,8,4,6,5,28
+FC Schalke 04,18,8,3,7,-2,27
+VfL Wolfsburg,18,7,5,6,4,26
+1. FSV Mainz 05,18,7,3,8,-1,24
+1. FC Koeln,18,6,6,6,-5,24
+FC Ingolstadt 04,18,6,5,7,-6,23
+Hamburger SV,18,6,4,8,-5,22
+SV Darmstadt 98,18,5,6,7,-8,21
+FC Augsburg,18,5,5,8,-5,20
+Eintracht Frankfurt,18,5,5,8,-6,20
+VfB Stuttgart,18,5,3,10,-13,18
+SV Werder Bremen,18,5,3,10,-13,18
+TSG 1899 Hoffenheim,18,2,8,8,-8,14
+Hannover 96,18,4,2,12,-12,14
+FC Bayern Muenchen,19,17,1,1,41,52
+Borussia Dortmund,19,14,2,3,28,44
+Hertha Berlin,19,10,4,5,8,34
+Bayer 04 Leverkusen,19,9,4,6,8,31
+FC Schalke 04,19,9,3,7,0,30
+Borussia Moenchengladbach,19,9,2,8,1,29
+VfL Wolfsburg,19,7,6,6,4,27
+1. FSV Mainz 05,19,8,3,8,0,27
+1. FC Koeln,19,6,7,6,-5,25
+FC Ingolstadt 04,19,6,5,8,-8,23
+Hamburger SV,19,6,4,9,-6,22
+FC Augsburg,19,5,6,8,-5,21
+Eintracht Frankfurt,19,5,6,8,-6,21
+SV Darmstadt 98,19,5,6,8,-10,21
+VfB Stuttgart,19,6,3,10,-12,21
+SV Werder Bremen,19,5,4,10,-13,19
+TSG 1899 Hoffenheim,19,2,8,9,-10,14
+Hannover 96,19,4,2,13,-15,14
+FC Bayern Muenchen,20,17,2,1,41,53
+Borussia Dortmund,20,14,3,3,28,45
+Hertha Berlin,20,10,5,5,8,35
+FC Schalke 04,20,10,3,7,3,33
+Bayer 04 Leverkusen,20,9,5,6,8,32
+Borussia Moenchengladbach,20,10,2,8,5,32
+1. FSV Mainz 05,20,9,3,8,1,30
+VfL Wolfsburg,20,7,6,7,1,27
+1. FC Koeln,20,6,8,6,-5,26
+FC Ingolstadt 04,20,7,5,8,-7,26
+SV Darmstadt 98,20,6,6,8,-8,24
+VfB Stuttgart,20,7,3,10,-10,24
+Hamburger SV,20,6,5,9,-6,23
+FC Augsburg,20,5,6,9,-6,21
+Eintracht Frankfurt,20,5,6,9,-8,21
+SV Werder Bremen,20,5,4,11,-17,19
+TSG 1899 Hoffenheim,20,2,8,10,-12,14
+Hannover 96,20,4,2,14,-16,14
+FC Bayern Muenchen,21,18,2,1,43,56
+Borussia Dortmund,21,15,3,3,29,48
+Bayer 04 Leverkusen,21,10,5,6,9,35
+Hertha Berlin,21,10,5,6,6,35
+FC Schalke 04,21,10,3,8,2,33
+1. FSV Mainz 05,21,10,3,8,2,33
+Borussia Moenchengladbach,21,10,2,9,4,32
+VfL Wolfsburg,21,8,6,7,3,30
+1. FC Koeln,21,7,8,6,-3,29
+VfB Stuttgart,21,8,3,10,-8,27
+Hamburger SV,21,7,5,9,-5,26
+FC Ingolstadt 04,21,7,5,9,-9,26
+SV Darmstadt 98,21,6,6,9,-9,24
+FC Augsburg,21,5,6,10,-8,21
+Eintracht Frankfurt,21,5,6,10,-10,21
+SV Werder Bremen,21,5,5,11,-17,20
+TSG 1899 Hoffenheim,21,2,9,10,-12,15
+Hannover 96,21,4,2,15,-17,14
+FC Bayern Muenchen,22,19,2,1,45,59
+Borussia Dortmund,22,16,3,3,30,51
+Hertha Berlin,22,10,6,6,6,36
+Bayer 04 Leverkusen,22,10,5,7,8,35
+Borussia Moenchengladbach,22,11,2,9,5,35
+FC Schalke 04,22,10,4,8,2,34
+1. FSV Mainz 05,22,10,3,9,1,33
+VfL Wolfsburg,22,8,7,7,3,31
+1. FC Koeln,22,7,8,7,-4,29
+FC Ingolstadt 04,22,8,5,9,-7,29
+VfB Stuttgart,22,8,4,10,-8,28
+Hamburger SV,22,7,6,9,-5,27
+FC Augsburg,22,6,6,10,-7,24
+SV Darmstadt 98,22,6,6,10,-11,24
+Eintracht Frankfurt,22,5,7,10,-10,22
+SV Werder Bremen,22,5,5,12,-19,20
+TSG 1899 Hoffenheim,22,3,9,10,-11,18
+Hannover 96,22,4,2,16,-18,14
+FC Bayern Muenchen,23,20,2,1,47,62
+Borussia Dortmund,23,17,3,3,32,54
+Hertha Berlin,23,11,6,6,7,39
+Borussia Moenchengladbach,23,11,3,9,5,36
+1. FSV Mainz 05,23,11,3,9,3,36
+Bayer 04 Leverkusen,23,10,5,8,6,35
+FC Schalke 04,23,10,5,8,2,35
+VfL Wolfsburg,23,8,7,8,1,31
+FC Ingolstadt 04,23,8,6,9,-7,30
+1. FC Koeln,23,7,8,8,-5,29
+Hamburger SV,23,7,7,9,-5,28
+VfB Stuttgart,23,8,4,11,-9,28
+FC Augsburg,23,6,7,10,-7,25
+SV Darmstadt 98,23,6,7,10,-11,25
+Eintracht Frankfurt,23,5,8,10,-10,23
+SV Werder Bremen,23,5,6,12,-19,21
+TSG 1899 Hoffenheim,23,3,9,11,-13,18
+Hannover 96,23,5,2,16,-17,17
+FC Bayern Muenchen,24,20,2,2,46,62
+Borussia Dortmund,24,18,3,3,34,57
+Hertha Berlin,24,12,6,6,9,42
+Borussia Moenchengladbach,24,12,3,9,9,39
+1. FSV Mainz 05,24,12,3,9,4,39
+FC Schalke 04,24,11,5,8,3,38
+Bayer 04 Leverkusen,24,10,5,9,3,35
+VfL Wolfsburg,24,9,7,8,5,34
+FC Ingolstadt 04,24,8,7,9,-7,31
+1. FC Koeln,24,7,9,8,-5,30
+Hamburger SV,24,7,7,10,-6,28
+VfB Stuttgart,24,8,4,12,-13,28
+FC Augsburg,24,6,7,11,-8,25
+SV Darmstadt 98,24,6,7,11,-13,25
+SV Werder Bremen,24,6,6,12,-16,24
+Eintracht Frankfurt,24,5,8,11,-12,23
+TSG 1899 Hoffenheim,24,4,9,11,-12,21
+Hannover 96,24,5,2,17,-21,17
+FC Bayern Muenchen,25,20,3,2,46,63
+Borussia Dortmund,25,18,4,3,34,58
+Hertha Berlin,25,12,6,7,7,42
+FC Schalke 04,25,12,5,8,5,41
+1. FSV Mainz 05,25,12,4,9,4,40
+Borussia Moenchengladbach,25,12,3,10,8,39
+VfL Wolfsburg,25,10,7,8,6,37
+Bayer 04 Leverkusen,25,10,6,9,3,36
+FC Ingolstadt 04,25,8,8,9,-7,32
+Hamburger SV,25,8,7,10,-4,31
+VfB Stuttgart,25,9,4,12,-9,31
+1. FC Koeln,25,7,9,9,-7,30
+SV Werder Bremen,25,7,6,12,-13,27
+FC Augsburg,25,6,8,11,-8,26
+SV Darmstadt 98,25,6,8,11,-13,26
+Eintracht Frankfurt,25,5,9,11,-12,24
+TSG 1899 Hoffenheim,25,4,9,12,-16,21
+Hannover 96,25,5,2,18,-24,17
+FC Bayern Muenchen,26,21,3,2,51,66
+Borussia Dortmund,26,19,4,3,36,61
+Hertha Berlin,26,13,6,7,9,45
+Borussia Moenchengladbach,26,13,3,10,11,42
+FC Schalke 04,26,12,5,9,3,41
+1. FSV Mainz 05,26,12,4,10,2,40
+Bayer 04 Leverkusen,26,11,6,9,4,39
+VfL Wolfsburg,26,10,7,9,5,37
+1. FC Koeln,26,8,9,9,-5,33
+FC Ingolstadt 04,26,8,9,9,-7,33
+VfB Stuttgart,26,9,5,12,-9,32
+Hamburger SV,26,8,7,11,-5,31
+FC Augsburg,26,6,9,11,-8,27
+SV Darmstadt 98,26,6,9,11,-13,27
+SV Werder Bremen,26,7,6,13,-18,27
+Eintracht Frankfurt,26,5,9,12,-15,24
+TSG 1899 Hoffenheim,26,5,9,12,-15,24
+Hannover 96,26,5,2,19,-26,17
+FC Bayern Muenchen,27,22,3,2,52,69
+Borussia Dortmund,27,20,4,3,38,64
+Hertha Berlin,27,14,6,7,10,48
+FC Schalke 04,27,13,5,9,4,44
+Borussia Moenchengladbach,27,13,3,11,10,42
+Bayer 04 Leverkusen,27,12,6,9,6,42
+1. FSV Mainz 05,27,12,5,10,2,41
+VfL Wolfsburg,27,10,8,9,5,38
+1. FC Koeln,27,8,9,10,-6,33
+FC Ingolstadt 04,27,8,9,10,-8,33
+VfB Stuttgart,27,9,5,13,-11,32
+Hamburger SV,27,8,7,12,-7,31
+SV Darmstadt 98,27,6,10,11,-13,28
+SV Werder Bremen,27,7,7,13,-18,28
+FC Augsburg,27,6,9,12,-10,27
+TSG 1899 Hoffenheim,27,6,9,12,-13,27
+Eintracht Frankfurt,27,6,9,12,-14,27
+Hannover 96,27,5,2,20,-27,17
+FC Bayern Muenchen,28,23,3,2,53,72
+Borussia Dortmund,28,21,4,3,39,67
+Hertha Berlin,28,14,6,8,5,48
+Borussia Moenchengladbach,28,14,3,11,15,45
+Bayer 04 Leverkusen,28,13,6,9,9,45
+1. FSV Mainz 05,28,13,5,10,4,44
+FC Schalke 04,28,13,5,10,1,44
+VfL Wolfsburg,28,10,8,10,2,38
+FC Ingolstadt 04,28,9,9,10,-5,36
+Hamburger SV,28,9,7,12,-4,34
+1. FC Koeln,28,8,10,10,-6,34
+VfB Stuttgart,28,9,6,13,-11,33
+SV Darmstadt 98,28,6,11,11,-13,29
+TSG 1899 Hoffenheim,28,6,10,12,-13,28
+SV Werder Bremen,28,7,7,14,-19,28
+FC Augsburg,28,6,9,13,-12,27
+Eintracht Frankfurt,28,6,9,13,-15,27
+Hannover 96,28,5,2,21,-30,17
+FC Bayern Muenchen,29,24,3,2,55,75
+Borussia Dortmund,29,21,5,3,39,68
+Hertha Berlin,29,14,7,8,5,49
+Bayer 04 Leverkusen,29,14,6,9,11,48
+Borussia Moenchengladbach,29,14,3,12,14,45
+1. FSV Mainz 05,29,13,6,10,4,45
+FC Schalke 04,29,13,6,10,1,45
+VfL Wolfsburg,29,10,9,10,2,39
+FC Ingolstadt 04,29,10,9,10,-4,39
+Hamburger SV,29,9,7,13,-5,34
+1. FC Koeln,29,8,10,11,-8,34
+VfB Stuttgart,29,9,6,14,-13,33
+SV Darmstadt 98,29,7,11,11,-12,32
+TSG 1899 Hoffenheim,29,7,10,12,-11,31
+FC Augsburg,29,7,9,13,-11,30
+SV Werder Bremen,29,7,7,15,-20,28
+Eintracht Frankfurt,29,6,9,14,-17,27
+Hannover 96,29,5,3,21,-30,18
+FC Bayern Muenchen,30,25,3,2,58,78
+Borussia Dortmund,30,22,5,3,42,71
+Bayer 04 Leverkusen,30,15,6,9,14,51
+Hertha Berlin,30,14,7,9,4,49
+Borussia Moenchengladbach,30,14,3,13,12,45
+1. FSV Mainz 05,30,13,6,11,3,45
+FC Schalke 04,30,13,6,11,-2,45
+VfL Wolfsburg,30,10,9,11,1,39
+FC Ingolstadt 04,30,10,9,11,-6,39
+1. FC Koeln,30,9,10,11,-7,37
+SV Darmstadt 98,30,8,11,11,-10,35
+Hamburger SV,30,9,7,14,-8,34
+TSG 1899 Hoffenheim,30,8,10,12,-10,34
+FC Augsburg,30,8,9,13,-10,33
+VfB Stuttgart,30,9,6,15,-14,33
+SV Werder Bremen,30,8,7,15,-19,31
+Eintracht Frankfurt,30,6,9,15,-20,27
+Hannover 96,30,6,3,21,-28,21
+FC Bayern Muenchen,31,26,3,2,60,81
+Borussia Dortmund,31,23,5,3,45,74
+Bayer 04 Leverkusen,31,16,6,9,15,54
+Hertha Berlin,31,14,7,10,2,49
+Borussia Moenchengladbach,31,15,3,13,14,48
+1. FSV Mainz 05,31,13,6,12,2,45
+FC Schalke 04,31,13,6,12,-3,45
+1. FC Koeln,31,10,10,11,-4,40
+FC Ingolstadt 04,31,10,10,11,-6,40
+VfL Wolfsburg,31,10,9,12,-1,39
+Hamburger SV,31,10,7,14,-7,37
+FC Augsburg,31,9,9,13,-8,36
+SV Darmstadt 98,31,8,11,12,-13,35
+TSG 1899 Hoffenheim,31,8,10,13,-12,34
+VfB Stuttgart,31,9,6,16,-17,33
+SV Werder Bremen,31,8,7,16,-20,31
+Eintracht Frankfurt,31,7,9,15,-19,30
+Hannover 96,31,6,4,21,-28,22
+FC Bayern Muenchen,32,26,4,2,60,82
+Borussia Dortmund,32,24,5,3,49,77
+Bayer 04 Leverkusen,32,17,6,9,16,57
+Borussia Moenchengladbach,32,15,4,13,14,49
+Hertha Berlin,32,14,7,11,1,49
+FC Schalke 04,32,14,6,12,-1,48
+1. FSV Mainz 05,32,13,7,12,2,46
+1. FC Koeln,32,10,11,11,-4,41
+FC Ingolstadt 04,32,10,10,12,-7,40
+VfL Wolfsburg,32,10,9,13,-5,39
+Hamburger SV,32,10,8,14,-7,38
+FC Augsburg,32,9,10,13,-8,37
+TSG 1899 Hoffenheim,32,9,10,13,-11,37
+SV Darmstadt 98,32,8,11,13,-14,35
+SV Werder Bremen,32,9,7,16,-16,34
+Eintracht Frankfurt,32,8,9,15,-18,33
+VfB Stuttgart,32,9,6,17,-21,33
+Hannover 96,32,6,4,22,-30,22
+FC Bayern Muenchen,33,27,4,2,61,85
+Borussia Dortmund,33,24,5,4,48,77
+Bayer 04 Leverkusen,33,17,6,10,15,57
+Borussia Moenchengladbach,33,16,4,13,15,52
+1. FSV Mainz 05,33,14,7,12,4,49
+Hertha Berlin,33,14,7,12,0,49
+FC Schalke 04,33,14,7,12,-1,49
+VfL Wolfsburg,33,11,9,13,-4,42
+1. FC Koeln,33,10,12,11,-4,42
+FC Ingolstadt 04,33,10,10,13,-8,40
+FC Augsburg,33,9,11,13,-8,38
+Hamburger SV,33,10,8,15,-8,38
+SV Darmstadt 98,33,9,11,13,-13,38
+TSG 1899 Hoffenheim,33,9,10,14,-12,37
+Eintracht Frankfurt,33,9,9,15,-17,36
+SV Werder Bremen,33,9,8,16,-16,35
+VfB Stuttgart,33,9,6,18,-23,33
+Hannover 96,33,7,4,22,-29,25
+FC Bayern Muenchen,34,28,4,2,63,88
+Borussia Dortmund,34,24,6,4,48,78
+Bayer 04 Leverkusen,34,18,6,10,16,60
+Borussia Moenchengladbach,34,17,4,13,17,55
+FC Schalke 04,34,15,7,12,2,52
+1. FSV Mainz 05,34,14,8,12,4,50
+Hertha Berlin,34,14,8,12,0,50
+VfL Wolfsburg,34,12,9,13,-2,45
+1. FC Koeln,34,10,13,11,-4,43
+Hamburger SV,34,11,8,15,-6,41
+FC Ingolstadt 04,34,10,10,14,-9,40
+FC Augsburg,34,9,11,14,-10,38
+SV Werder Bremen,34,10,8,16,-15,38
+SV Darmstadt 98,34,9,11,14,-15,38
+TSG 1899 Hoffenheim,34,9,10,15,-15,37
+Eintracht Frankfurt,34,9,9,16,-18,36
+VfB Stuttgart,34,9,6,19,-25,33
+Hannover 96,34,7,4,23,-31,25
